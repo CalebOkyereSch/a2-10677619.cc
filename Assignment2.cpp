@@ -8,7 +8,6 @@ int main(){
 	cout<<endl;
 	cout<<"How many numbers do you want to check whether prime or not :";
 	cin>>loop;
-	system("cls");
 	for(i=1;i<=loop;i++){
 	cout<<"For number "<<i<<endl;
 	cout<<"Please enter a number to verify whether it is a prime number : ";
